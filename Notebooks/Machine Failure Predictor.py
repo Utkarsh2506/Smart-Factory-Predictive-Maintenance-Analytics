@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 
 # --- Database Connection ---
 db_user = 'root'
-db_password = 'Bundela0421'
+db_password = 'your_password'
 db_host = 'localhost'
 db_name = 'factory_db'
 
@@ -150,5 +150,6 @@ with engine.connect() as connection:
     connection.execute(text("DROP TABLE IF EXISTS Failure_Predictions"))
 
 results_df.to_sql('Failure_Predictions', con=engine, if_exists='append', index=False)
+
 
 print("\nPrediction results have been saved to the 'Failure_Predictions' table in MySQL.")
