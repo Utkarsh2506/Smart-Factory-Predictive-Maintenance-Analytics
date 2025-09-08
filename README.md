@@ -1,4 +1,4 @@
-# Smart Factory Analytics
+# Smart Factory Predictive Maintenance Analytics
 
 ---
 
