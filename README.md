@@ -54,18 +54,18 @@ Key Features of the Power BI Dashboard
 ```plaintext
 Smart-Factory-Analytics
 │
-├── Data/										        # Contains the original raw dataset
+├── Data/                                                                # Contains the original raw dataset
 │   └── Factory Dataset.csv
 │
-├── SQL/                                                       # Database schema
+├── SQL/                                                                 # Database schema
 │   └── Schema_SQL
 │
-├── Notebooks/										   # Python notebooks for data import and ML modelling
+├── Notebooks/                                                           # Python notebooks for data import and ML modelling
 │   ├── Data Import.ipynb
 │   └── Machine Failure Predictor.ipynb
 │
-├── Analysis Files/								        # Final Power BI (.pbix) and Excel (.xlsx) files
+├── Analysis Files/                                                      # Final Power BI (.pbix) and Excel (.xlsx) files
 │   ├── Smart Factory Dashboard.pbix
 │   └── Smart Factory Model.xlsx
 │
-└── README.md										   # Project summary
+└── README.md                                                            # Project summary
