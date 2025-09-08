@@ -1,8 +1,8 @@
-# Smart Factory Predictive Maintenance Dashboard
+# Smart Factory Analytics
 
 ---
 
-### ## Problem Statement
+### # Problem Statement
 
 In manufacturing, unplanned machine downtime is a primary source of significant financial loss. A single critical failure can halt production lines, leading to missed deadlines, high costs for emergency repairs, and inefficient resource allocation. Traditional run-to-failure or time-based preventive maintenance schedules are often inefficient, either allowing preventable failures to occur or resulting in unnecessary maintenance on healthy machines.
 
@@ -10,7 +10,7 @@ This project addresses this challenge by developing an end-to-end Business Intel
 
 ---
 
-### ## Solution Overview
+### # Solution Overview
 
 To solve this problem, I developed a complete analytics pipeline that integrates machine learning, financial modelling, and business intelligence visualization
 
@@ -22,7 +22,7 @@ To solve this problem, I developed a complete analytics pipeline that integrates
 
 ---
 
-### ## Key Results & Dashboard Features
+### # Key Results & Dashboard Features
 
 The analysis demonstrated significant value in shifting to a predictive maintenance strategy, projecting annual savings of approximately ¥577 Million with an ROI of exactly 1308%.
 
@@ -39,7 +39,7 @@ Key Features of the Power BI Dashboard
 
 ---
 
-### ## Technology Stack
+### # Technology Stack
 
  * **Data Analysis:** Python (Pandas, NumPy)
  * **Machine Learning:** Scikit-learn, XGBoost
@@ -49,7 +49,7 @@ Key Features of the Power BI Dashboard
 
 ---
 
-### ## Project Structure
+### # Project Structure
 
 ```plaintext
 Smart-Factory-Analytics
