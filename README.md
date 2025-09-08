@@ -52,7 +52,7 @@ Key Features of the Power BI Dashboard
 ### # Project Structure
 
 ```plaintext
-Smart-Factory-Analytics
+Smart Factory Predictive Maintenance Analytics
 │
 ├── Data/                                                                # Contains the original raw dataset
 │   └── Factory Dataset.csv
