@@ -49,6 +49,10 @@ Key Features of the Power BI Dashboard
 
 ---
 
+**For a detailed breakdown of the methodology, model evaluation, and financial analysis, please see the [PROJECT REPORT.pdf](https://github.com/user-attachments/files/22232328/PROJECT.REPORT.pdf).**
+
+---
+
 ### # Project Structure
 
 ```plaintext
