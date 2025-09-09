@@ -68,4 +68,6 @@ Smart Factory Predictive Maintenance Analytics
 │   ├── Smart Factory Dashboard.pbix
 │   └── Smart Factory Model.xlsx
 │
-└── README.md                                                            # Project summary
+├── README.md                                                            # Project summary
+│
+└── Project Report                                                       # Detailed project report
