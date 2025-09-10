@@ -29,10 +29,12 @@ The analysis demonstrated significant value in shifting to a predictive maintena
 Key Features of the Power BI Dashboard
 
  * **Page 1: Predictive Maintenance**
+
      High-level financial KPIs Total Annual Savings, ROI, and Program Cost.
      Real-time machine health status monitoring.
      Alerts for machines with a high probability of near-term failure.
  * **Page 2: Quality Control & Failure Analysis**
+
      Pareto charts identifying the most frequent failure types.
      Integration of the Root Cause Analysis (Fishbone diagram) explaining why failures occur.
      Historical trends of sensor readings leading up to failure events.
